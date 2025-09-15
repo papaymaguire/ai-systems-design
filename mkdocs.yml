@@ -2,7 +2,11 @@ site_name: My Docs
 site_url: https://papaymaguire.github.io/ai-systems-design
 theme:
   name: material
-
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.sections
 nav:
   - Home: index.md
   - Use Cases:
