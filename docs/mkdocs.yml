@@ -2,3 +2,10 @@ site_name: My Docs
 site_url: https://papaymaguire.github.io/ai-systems-design
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - Use Cases:
+    - use-cases/index.md
+  - Examples:
+    - examples/index.md
